@@ -5,4 +5,4 @@ The materials in this folder are from a study conducted in the Fall 2022 Artific
 
 Participants completed a pre- and post-survey as well as the following assignments: 
 * Two short, low-stakes assignments in which students wrote blog posts directed toward different audiences (Blog 1: non-technical, Blog 2: technical) 
-* Two long, high-stakes writing activities connected to programming assignments (1: design documentation for 8-Queens implementation, 2: README and report for final project)
+* Two long, high-stakes writing activities connected to programming assignments (1: design documentation for 8-Queens implementation, 2: README, code comments, and report for final project)
